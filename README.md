@@ -21,6 +21,12 @@ Analista de suporte técnico na **Luizalabs (Magalu)**, com cerca de 7 anos em t
 Validei se uma IA que sugere a triagem de chamados de suporte teria valor para analistas, antes de escrever qualquer código. Montei um MVP estilo Mágico de Oz (formulário com sugestões geradas por IA) e testei com 5 analistas reais. Os dados mostraram que a dor real não era o tempo de triagem, e sim o chamado na fila errada, o que levou a um pivô para uma IA focada em roteamento.
 🔗 [Ver case completo](https://github.com/brunocfarias/discovery-triagem-chamados-ia)
 
+### 🧠 InsightDesk AI: planejamento de produto com IA generativa
+**Gestão de projetos · Product Management · IA generativa · LGPD**
+
+Planejamento completo de uma plataforma B2B que usa IA para classificar tickets do Zendesk por tema, sentimento e urgência e entregar insights a Product Managers: termo de abertura, EAP, MVP, roadmap em 3 fases, matriz de riscos e governança de IA, com anonimização de dados pessoais antes do modelo e revisão humana contra alucinação.
+🔗 [Ver projeto](https://github.com/brunocfarias/insightdesk-ai)
+
 ### 🗂️ Governança de dados no-code para uma ONG
 **Airtable · Modelagem relacional · Automação · LGPD**
 
