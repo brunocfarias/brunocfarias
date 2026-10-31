@@ -27,6 +27,12 @@ Validei se uma IA que sugere a triagem de chamados de suporte teria valor para a
 Sistema no Airtable para o cenário de uma ONG de capacitação social: modelagem muitos-para-muitos entre beneficiários, eventos e inscrições, dashboard de indicadores, painel administrativo para voluntários e automação que envia confirmação de inscrição por e-mail.
 🔗 [Ver projeto](https://github.com/brunocfarias/ong-vida-plena-airtable)
 
+### 💻 Farias Tech Support: landing page com orçamento e leads
+**Softr · Airtable · JavaScript**
+
+Landing page no-code com calculadora de orçamento em JavaScript que recalcula o preço a cada digitação, e formulário que envia os pedidos direto para uma base de leads no Airtable, com data e hora automáticas.
+🔗 [Ver projeto](https://github.com/brunocfarias/farias-tech-support) · 🌐 [Site ao vivo](https://fariastech.softr.app)
+
 ### 🎮 Quake 3 Log Parser API
 **Python · FastAPI · MongoDB · Pytest**
 
