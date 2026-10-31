@@ -21,6 +21,12 @@ Analista de suporte técnico na **Luizalabs (Magalu)**, com cerca de 7 anos em t
 Validei se uma IA que sugere a triagem de chamados de suporte teria valor para analistas, antes de escrever qualquer código. Montei um MVP estilo Mágico de Oz (formulário com sugestões geradas por IA) e testei com 5 analistas reais. Os dados mostraram que a dor real não era o tempo de triagem, e sim o chamado na fila errada, o que levou a um pivô para uma IA focada em roteamento.
 🔗 [Ver case completo](https://github.com/brunocfarias/discovery-triagem-chamados-ia)
 
+### 💬 Assistente de RH com IA generativa
+**Make · Gemini 2.5 Flash · Prompt engineering · Google Docs · Gmail**
+
+Automação que lê a dúvida do colaborador por e-mail, consulta o manual oficial de RH e responde em segundos com o Gemini, usando persona, grounding no manual e regras de formatação. Casos sensíveis, como assédio ou demissão, recebem uma resposta de escalação em vez de uma resposta automática.
+🔗 [Ver projeto](https://github.com/brunocfarias/assistente-rh-gemini)
+
 ### 🧠 InsightDesk AI: planejamento de produto com IA generativa
 **Gestão de projetos · Product Management · IA generativa · LGPD**
 
