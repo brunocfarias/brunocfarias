@@ -15,6 +15,12 @@ Analista de suporte técnico na **Luizalabs (Magalu)**, com cerca de 7 anos em t
 
 ## 🚀 Projetos
 
+### 🎯 Roteamento de chamados com IA
+**Python · Gemini API · Pydantic · Avaliação de LLM**
+
+Classificador que indica a fila certa de um chamado de suporte, ou faz uma pergunta ao usuário quando falta informação, com saída estruturada e retry com backoff. Medido em três conjuntos de avaliação: a v1 caiu de 97% para 67% em chamados realistas, e a v2, reescrita para classificar pela causa e não pelo programa citado, acertou 15 de 15 chamados inéditos. É a construção do pivô do case de discovery abaixo.
+🔗 [Ver projeto](https://github.com/brunocfarias/roteamento-chamados-ia)
+
 ### 🤖 Da Hipótese à Evidência: triagem de chamados com IA
 **Product Discovery · Lean Startup · IA generativa**
 
