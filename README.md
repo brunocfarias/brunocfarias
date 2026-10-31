@@ -47,6 +47,7 @@ Gerenciador de tarefas no terminal com menu interativo: adicionar, listar, atual
 ## 🎓 Formação
 
 - **Inteligência Artificial e Automação Digital**: Faculdade de Tecnologia Rocketseat (2026 – 2027, em andamento)
+- **Gestão de Tecnologia e Sistemas de Informação**: UniFECAF
 
 ## 📫 Contato
 
