@@ -51,6 +51,12 @@ Landing page no-code com calculadora de orçamento em JavaScript que recalcula o
 Aplicação web de gestão de tarefas com cadastro, login, recuperação de senha por e-mail, tarefas com status e prazo, e comentários com autor e data em cada tarefa, tudo modelado em três tabelas relacionadas.
 🔗 [Ver projeto](https://github.com/brunocfarias/taskly-bubble)
 
+### ⏱️ Sistema Operacional Pessoal de produtividade
+**Notion · Google Agenda · IA · HTML/CSS/JavaScript**
+
+Sistema de organização para uma rotina de suporte com três canais de entrada e estudo à noite: captura no Notion, triagem e planejamento semanal com prompts de IA, Matriz de Eisenhower, Pomodoro e bloqueio de tempo na Google Agenda, além de um painel interativo em HTML com indicadores, hábitos e bem-estar.
+🔗 [Ver projeto](https://github.com/brunocfarias/sistema-produtividade-pessoal) · 🌐 [Painel ao vivo](https://brunocfarias.github.io/sistema-produtividade-pessoal/dashboard.html)
+
 ### 🎮 Quake 3 Log Parser API
 **Python · FastAPI · MongoDB · Pytest**
 
