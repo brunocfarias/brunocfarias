@@ -45,6 +45,12 @@ Sistema no Airtable para o cenário de uma ONG de capacitação social: modelage
 Landing page no-code com calculadora de orçamento em JavaScript que recalcula o preço a cada digitação, e formulário que envia os pedidos direto para uma base de leads no Airtable, com data e hora automáticas.
 🔗 [Ver projeto](https://github.com/brunocfarias/farias-tech-support) · 🌐 [Site ao vivo](https://fariastech.softr.app)
 
+### 📋 Taskly.io: gestão de tarefas no Bubble
+**Bubble · No-code full-stack · Banco relacional**
+
+Aplicação web de gestão de tarefas com cadastro, login, recuperação de senha por e-mail, tarefas com status e prazo, e comentários com autor e data em cada tarefa, tudo modelado em três tabelas relacionadas.
+🔗 [Ver projeto](https://github.com/brunocfarias/taskly-bubble)
+
 ### 🎮 Quake 3 Log Parser API
 **Python · FastAPI · MongoDB · Pytest**
 
